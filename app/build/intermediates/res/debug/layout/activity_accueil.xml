@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".AccueilActivity">
+
+    <ImageButton
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:id="@+id/imageButtonServices"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="64dp"
+        android:contentDescription="@string/Services"
+        android:background="@drawable/services" />
+
+    <ImageButton
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:id="@+id/imageButtonPlanning"
+        android:layout_alignTop="@+id/imageButtonServices"
+        android:layout_toEndOf="@+id/imageButtonServices"
+        android:contentDescription="@string/Planning"
+        android:background="@drawable/planning" />
+
+    <ImageButton
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:id="@+id/imageButtonMap"
+        android:layout_alignTop="@+id/imageButtonPlanning"
+        android:layout_toEndOf="@+id/imageButtonPlanning"
+        android:contentDescription="@string/Map"
+        android:background="@drawable/map" />
+
+    <ImageButton
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:id="@+id/imageButtonSpectacle"
+        android:layout_alignTop="@+id/imageButtonMap"
+        android:contentDescription="@string/Spectacle"
+        android:background="@drawable/spectacle"
+        android:layout_toEndOf="@+id/imageButtonMap"/>
+
+    <ImageButton
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:id="@+id/imageButtonPartage"
+        android:contentDescription="@string/Partage"
+        android:layout_alignTop="@+id/imageButtonPlanning"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/partage"
+        android:layout_toEndOf="@+id/imageButtonSpectacle"/>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Jordan/Desktop/EXIA/Projet%20Android/pdf_project/app/src/main/res/layout/activity_accueil.xml -->

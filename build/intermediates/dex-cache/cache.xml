@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-5c61a426a2f98f1858e84616948c9bf47198abca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-fd37840befa8d8b91aafdcea3f912cdeeba8abdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-d5750e4505bc09e43c8c97646c0d7814133a9ada.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-5474ef85046382aba17dd299242833090a0183ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-6b73bd7a97105b238fbebb1b10b9c22481cd2c34.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-bae65525a4407bb9789dd99339d7a214c7db2ec4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-05ff814a5bdea7f34637186d59b6978ed243c3d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-3e07a93cabd3d3cc1b7e462b697817bf8c456bc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-c38ac8352c3b47666977044fa699af1595c6e43a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-b39d1f47a430eb2202f3f83cc429ef49ab6c1213.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-d5f1bd2b0f16f52a7195da74d3e49f64835616ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-0b9b9f591c22d41e7981610a6493c81e5c0a12d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-48ed7dc13d708b8882b26053407d1b6a838b5d86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-47aee6496ded0c96ae6a3da1a64386a27c1690be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-c3f476b1ffdfc5e954eabf21e147ec04bcc5ca03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-4321a232b4a6ab93c380a72ad03bdd5353ff496e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-9bc1a9d7e1712791cd1af606da91556df5e06172.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-54ca2ce10a327837fb4db88417b3706588d24ee1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-bca4544f9184851d8c9b49eab9cd354be7f46395.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-be429a861956f5ed03b9ec3bf690c4c9b1afc5d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-d48f2bd0f7bbc485dc1860e9e1e96d7322f45884.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-99ae55fa9674686dc5d32a4e20d72dee2e52cb3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-f68ce7d774e2287f1b03f519a8f31f0b434e7660.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-1f576c8ea10e4b62b2b92a351afbaeb632932232.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-d69f5f05d861b1f37fced8dc339934a6b9d814a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Jordan\Desktop\EXIA\Projet Android\pdf_project\app\build\intermediates\pre-dexed\debug\classes-36b9c1971fc966fbba8d83cb925d2c15095ce112.jar" />
+    </item>
+
+</items>

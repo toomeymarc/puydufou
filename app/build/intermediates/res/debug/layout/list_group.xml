@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="#CC000000">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lblListHeader"
+        android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:textSize="17dp"
+        android:textColor="#B9121B"
+        android:gravity="center_horizontal"/>
+
+</LinearLayout><!-- From: file:/C:/Users/Jordan/Desktop/EXIA/Projet%20Android/pdf_project/app/src/main/res/layout/list_group.xml -->

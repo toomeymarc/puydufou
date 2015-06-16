@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rotissoire"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat, massa ac pretium egestas, risus turpis volutpat est, at cursus felis nunc et tortor. Fusce eu blandit lacus. Fusce accumsan porta mauris, eget interdum odio accumsan a. Donec consectetur, massa eu volutpat sollicitudin, neque sem sollicitudin elit, in posuere ligula est quis nisi. Ut euismod sem ac egestas ultricies. Duis nec est mattis, rutrum ante non, sodales odio. Etiam fermentum nisl vel nisi auctor maximus. Etiam varius libero quis nibh tempor tempus. Vivamus sollicitudin pellentesque urna nec condimentum. Morbi malesuada nunc vel odio ornare ultrices. Nam malesuada lorem orci, nec mollis ipsum congue sit amet. Nulla facilisi. Etiam malesuada semper augue, nec rutrum dui commodo ut."
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="159dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/imageView"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView2"
+        android:id="@+id/relativeLayout">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="50dp">
+
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="4"
+            android:stepSize="1.0"
+            android:rating="2.0"/>
+
+        <Button
+            android:id="@+id/btnSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>
